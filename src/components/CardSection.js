@@ -1,3 +1,4 @@
+ "use client"
 const cardData = [
   { title: "Smart Search", desc: "Find the best properties instantly." },
   { title: "Market Insights", desc: "See trends and analytics in real time." },
